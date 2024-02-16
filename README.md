@@ -29,6 +29,3 @@ This React app demonstrates how to interact with the Solana blockchain using the
 - Solana Web3.js
 - Phantom Wallet
 
-## Contributions
-
-We welcome your help! Feel free to submit pull requests or report issues to improve this app's functionality.
